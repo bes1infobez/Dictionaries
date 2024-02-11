@@ -8,3 +8,5 @@ zoology
 zoom
 web
 webgoat
+ubuntu
+Ubuntu
